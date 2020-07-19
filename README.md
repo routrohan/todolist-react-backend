@@ -1,2 +1,4 @@
 # Todo-list
-A simple to-do list app designed with flask, SQLAlchemy, HTML and Bootstrap 
+### A flask backend server for todolist-react app.
+
+
